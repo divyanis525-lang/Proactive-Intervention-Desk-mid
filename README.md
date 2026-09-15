@@ -1,4 +1,4 @@
 # Proactive-Intervention-Desk-mid
-This is for mid submission
+This is for mid submission.Resource Links can be accessed from the pdf below under specified topic.
 [Ambient_Ingtervention_Desk.pdf](https://github.com/user-attachments/files/32254730/Ambient_Ingtervention_Desk.pdf)
 
